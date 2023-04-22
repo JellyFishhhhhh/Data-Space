@@ -7,4 +7,5 @@
 2. a group project on a real life dataset ([Data set](https://data.torontopolice.on.ca/datasets/TorontoPS::arrests-and-strip-searches-rbdc-arr-tbl-001/about))
 * [Data analysis](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%202/Data%20analysis/Group56.docx)
 
+3. Machine learning 
 * ML technology
