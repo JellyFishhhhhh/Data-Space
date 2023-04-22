@@ -7,7 +7,7 @@
 2. a group project on a real life dataset ([Data set](https://data.torontopolice.on.ca/datasets/TorontoPS::arrests-and-strip-searches-rbdc-arr-tbl-001/about))
 * [Data analysis](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%202/Data%20analysis/Group56.docx)
 
-3. A machine learning challange (aiming to have 80% accuracy) [Training data](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%203/ML%20/train.csv) [Testing data](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%203/ML%20/test.csv)
+3. A machine learning challange (aiming to have 80% accuracy) ([Training data])(https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%203/ML%20/train.csv) ([Testing data])(https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%203/ML%20/test.csv)
 * [Result](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%203/ML%20/test.ipynb)
 
-4. [A machine learning group work](https://colab.research.google.com/drive/1qsSizWEcpWybJm0BRXRDSleKmRnWkvDz?usp=sharing) [Data set](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+4. [A machine learning group work](https://colab.research.google.com/drive/1qsSizWEcpWybJm0BRXRDSleKmRnWkvDz?usp=sharing) ([Data set])(https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
