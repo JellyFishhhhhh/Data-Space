@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9AF713&width=435&lines=This+is+my+repository)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9AF713&width=435&lines=This+is+my+repository" alt="Typing SVG" /></a>
 ![](https://raw.githubusercontent.com/JellyFishhhhhh/My-repo/main/dist/github-contribution-grid-snake.svg)
 
 1. A project on a real life dataset ([Data set](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%201/UN_MigrantStockTotal_2015.xlsx))
