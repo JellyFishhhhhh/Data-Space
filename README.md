@@ -15,3 +15,5 @@
 4. [A machine learning group work](https://colab.research.google.com/drive/1qsSizWEcpWybJm0BRXRDSleKmRnWkvDz?usp=sharing) ([Data set](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset))
 
 5. [A memory game (flip the card)](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%204/Memory%20game/Memory_game.ipynb)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
