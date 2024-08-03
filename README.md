@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9AF713&width=435&lines=This+is+my+repository)](https://git.io/typing-svg)
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9AF713&width=435&lines=This+is+my+repository" alt="Typing SVG" /></a>
+</p>
 
 ![](https://raw.githubusercontent.com/JellyFishhhhhh/My-repo/main/dist/github-contribution-grid-snake.svg)
 
