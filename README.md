@@ -18,4 +18,4 @@
 
 5. [A memory game (flip the card)](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%204/Memory%20game/Memory_game.ipynb)
 
-[![Readme Card](https://github-readme-stats-JellyFishhhhhh.vercel.app/api/pin/?username=JellyFishhhhhh&repo=My-repo)](https://github.com/Jellyfishhhhhh/main)
+
