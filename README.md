@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=A6F730&center=true&vCenter=true&width=435&lines=This+is+my+repository+)](https://git.io/typing-svg)
 
-![](https://raw.githubusercontent.com/JellyFishhhhhh/JellyFishhhhhh/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/JellyFishhhhhh/My-repo/main/dist/github-contribution-grid-snake.svg)
 
 1. A project on a real life dataset ([Data set](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%201/UN_MigrantStockTotal_2015.xlsx))
 * [Data cleaning](https://github.com/JellyFishhhhhh/Data-Space/blob/main/Folder%201/Data%20cleaning/Zijian_Zhang_Writeup.pdf)
