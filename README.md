@@ -16,4 +16,4 @@
 
 5. [A memory game (flip the card)](https://github.com/JellyFishhhhhh/My-repo/blob/main/Folder%204/Memory%20game/Memory_game.ipynb)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/JellyFishhhhhh/Data-Space/blob/main/Folder%201/Data%20cleaning/Zijian_Zhang_Writeup.pdf))
