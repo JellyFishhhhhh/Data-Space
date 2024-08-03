@@ -1,4 +1,4 @@
-# My repo
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=A6F730&width=435&lines=This+is+my+repository+%3A))](https://git.io/typing-svg)
 
 ![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 
